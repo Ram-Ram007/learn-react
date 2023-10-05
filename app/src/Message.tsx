@@ -21,11 +21,7 @@ function Calc() {
     updateTotal(number1 * number2);
   }
 
-  function divideTotal() {
-   
-      updateTotal(number1 / number2);
-  }
-
+  
   return (
     <div className="App">
       <h1>Calculator</h1>
